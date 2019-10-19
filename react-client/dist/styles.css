@@ -1,6 +1,6 @@
 header {
     display: block;
-    background-color: black;
+    background-color: rgb(226, 12, 12);
     width: 100%;
     height: 50px;
     color: white;
@@ -12,8 +12,8 @@ header {
     padding: 0;
 }
 
-.navButton {
-    float: right;
+.navButton { 
+    float: left;
 }
 
 footer {
